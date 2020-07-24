@@ -7,6 +7,6 @@ https://github.com/connor-mcnamara/Slave-to-the-algorithm <br/>
 https://github.com/mikewlam/S2A <br/>
 https://github.com/arrthuzdkdkdk/algorithmslave <br/>
 https://github.com/hoikeiblahblahblah/Slave-to-the-algorithm <br/>
-https://github.com/arrthuzdkdkdk/algorithmslave
+https://github.com/arrthuzdkdkdk/algorithmslave <br/>
 https://github.com/ChantelLai/Slave-to-the-Algorithm
 
